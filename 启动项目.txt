@@ -1,0 +1,14 @@
+maven 命令:
+
+clean package
+
+jetty:run 
+
+${workspace_loc:/springmvcpro}
+
+课程:
+http://localhost:8080/courses/view?courseId=123
+
+图片缩略图:
+
+http://localhost:8080/file/upload
